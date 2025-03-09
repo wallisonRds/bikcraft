@@ -5,7 +5,12 @@
 @import "./global/header.css";
 @import "./global/footer.css";
 
+/* Utilidades */
+
 @import "./utils/components.css";
+@import "./utils/formulario.css";
+
+/* HOME */
 
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
@@ -27,6 +32,15 @@
 @import "./seguros/seguro.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
+
+/* Contato */
+
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+
+/* orcamento */
+
+@import "./orcamento/orcamento.css";
 
 /* Termos */
 
